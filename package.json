@@ -1,10 +1,16 @@
 {
-  "name": "rndm-utils",
+  "name": "@rndm/utils",
   "version": "0.1.0",
   "main": "src/index.js",
   "author": "RNDM",
   "license": "Apache-2.0",
-  "dependencies": {
-    
+  "description": "A selection of utility methods used across the suite of RNDM Packages.",
+  "homepage": "https://github.com/rndm/rndm-utils#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/rndm/rndm-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rndm/rndm-utils/issues"
   }
 }
