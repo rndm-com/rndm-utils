@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`src/readDir current 1`] = `
+Array [
+  "/__tests__/unit/src/buildFilesForFolder.spec.js",
+  "/__tests__/unit/src/decircular.spec.js",
+  "/__tests__/unit/src/index.spec.js",
+  "/__tests__/unit/src/mkDir.spec.js",
+  "/__tests__/unit/src/readDir.spec.js",
+]
+`;

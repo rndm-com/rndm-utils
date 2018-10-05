@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`src/mkDir current 1`] = `Array []`;
+
+exports[`src/mkDir existing 1`] = `Array []`;

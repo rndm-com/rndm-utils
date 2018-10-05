@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`src/decircular referenced 1`] = `
+"{
+  \\"test\\": \\"string1\\",
+  \\"ref2\\": {
+    \\"test\\": \\"string2\\"
+  }
+}"
+`;
+
+exports[`src/decircular simple - spacer = 2 1`] = `
+"{
+  \\"test\\": \\"string\\"
+}"
+`;
+
+exports[`src/decircular simple 1`] = `
+"{
+  \\"test\\": \\"string\\"
+}"
+`;
