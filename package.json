@@ -7,10 +7,18 @@
   "description": "A selection of utility methods used across the suite of RNDM Packages.",
   "homepage": "https://github.com/rndm/rndm-utils#readme",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/rndm/rndm-utils.git"
+    "type": "git",
+    "url": "https://github.com/rndm/rndm-utils.git"
   },
   "bugs": {
     "url": "https://github.com/rndm/rndm-utils/issues"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "5.6.1",
+    "jest": "^23.6.0"
   }
 }

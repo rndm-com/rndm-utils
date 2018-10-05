@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`src/buildFilesForFolder existing 1`] = `"other"`;
+
+exports[`src/buildFilesForFolder file 1`] = `"test"`;
+
+exports[`src/buildFilesForFolder files and folders 1`] = `"test"`;
