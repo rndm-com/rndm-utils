@@ -42,7 +42,7 @@ Recursive function for creating a folder tree.
 ```javascript
 
 const path: String = 'path/to/make'; // Folder tree to create
-const base: String = 'path/to/base/folder; // Folder in which to create new tree
+const base: String = 'path/to/base/folder'; // Folder in which to create new tree
 mkDir(path, base)
 ```
 
@@ -51,6 +51,6 @@ Recursive function for reading all files within a folder tree
 
 ```javascript
 
-const base: String = 'path/to/base/folder; // Folder that requires all files
+const base: String = 'path/to/base/folder'; // Folder that requires all files
 readDir(base)
 ```
