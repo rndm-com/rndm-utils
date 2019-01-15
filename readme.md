@@ -12,7 +12,7 @@ npm install --save rndm-utils
 
 ## Documentation
 ### buildFilesForFolder
-Recursive function for buiding a tree of folders and files
+Recursive function for building a tree of folders and files
 
 ```javascript
 type File = {
